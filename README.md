@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skylerflores
 - 👀 I’m interested in web and application development, AI, and UI/UX
-- 🌱 I’m currently learning HTML, CSS, Ruby, and developing more on my Pyhton skills.
+- 🌱 I’m currently learning HTML, CSS, Ruby, and developing more on my Python skills.
 - 💞️ I’m looking to collaborate on any open source projects and creative coding to build my programming skills.
 - 📫 How to reach me: sbflores411@gmail.com, https://www.linkedin.com/in/skyler-flores-377aa0230/
 - 😄 Pronouns: He/Him
